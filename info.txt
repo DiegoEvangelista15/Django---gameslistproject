@@ -1,0 +1,3 @@
+no ubuntu tem que rodar o
+
+sudo apt-get install libmysqlclient-dev python3-dev
